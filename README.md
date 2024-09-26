@@ -11,6 +11,6 @@ and goes to her `application.yml` my repo is a spotify `client ID` and `Client S
 
 Support and Help on Discord server [HERE](https://discord.gg/h3xvtExevy)
 
-Youtube Video [HERE]()
+Youtube tutorial [HERE](https://youtu.be/OuQCQQVHaMk)
 
 Thanks guys 
