@@ -7,6 +7,8 @@ You need `Lavalink.jar` [HERE INSTALL](https://github.com/lavalink-devs/Lavalink
 
 and copy `Lavalink.jar` download
 
+and goes to her `application.yml` my repo is a spotify `client ID` and `Client Secret`
+
 Support and Help on Discord server [HERE](https://discord.gg/h3xvtExevy)
 
 Youtube Video [HERE]()
