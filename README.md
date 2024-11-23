@@ -1,7 +1,7 @@
-# Lavalink-Spotify-support
-Hello here is Lavalink Spotify support 
+# Lavalink-Music-support
+Hello here is Lavalink Music support 
 
-You need lava version `18`
+You need lava version `17`
 
 You need `Lavalink.jar` [HERE INSTALL](https://github.com/lavalink-devs/Lavalink/releases/tag/4.0.8)
 
